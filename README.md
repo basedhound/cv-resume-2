@@ -22,7 +22,7 @@
 - HTML
 - CSS
 - JavaScript
-- Sass
+- Sass [📄](https://sass-lang.com/documentation) 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
